@@ -1,0 +1,3 @@
+ejercicio_2
+
+mi_repositorio = "https://github.com/augustomagallanes/test_github.git"
